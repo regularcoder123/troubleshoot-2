@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+}
+
+
+input{
+    width: 40px;
+    height: 40px;
+    
+}
+#display{
+    width: 165px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+
+#border{
+    border: 2px solid black;
+    width: 200px;
+    height: 100%;
+    padding: 20px;
+    background-color: #597280;
+
+}
